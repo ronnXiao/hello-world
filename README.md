@@ -1,2 +1,2 @@
 # hello-world
-a repository
+My hello world program.
